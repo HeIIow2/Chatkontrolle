@@ -1,4 +1,4 @@
-Vorbemerkung {#sec:Vorbemerkung}
+Vorbemerkung
 ============
 
 Apple plante 2021 eine mithilfe einer künstlichen Intelligenz iPhones
